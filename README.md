@@ -1,2 +1,2 @@
 # Random-Forest-Classification
-Predicting salary based on position and level
+Predicting purchase desicion based on Age and Estimated Salary
